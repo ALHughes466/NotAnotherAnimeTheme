@@ -126,12 +126,12 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(200, 200, 200, 0.1);
+  --message-hover-buttons-background: var(--main-theme-color);
 
   /*
     Context Menu Transparency
   */
-  --context-menu-transparency: rgba(15, 15, 15, 0.8);
+  --context-menu-transparency: rgba(15, 120, 15, 0.6);
 
   /*
     Add Server / Discovery Icon
@@ -149,7 +149,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 200, 200, 0.2);
+  --scrollbar-color: var(--main-theme-color);
 
   /*
     Unread Message Divider
@@ -160,7 +160,7 @@
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #7289da;
+  --new-messages-bar-background-color: var(--main-theme-color);
   --new-messages-bar-font-color: #fff;
 
   /*
@@ -185,7 +185,7 @@
   --text-voice-channel-color: rgb(142, 146, 151);
   --text-voice-channel-hover-color: #dcddde;
   --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #fff;
+  --unread-text-channel-color: #050;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
