@@ -126,7 +126,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: var(--main-theme-color);
+  --message-hover-buttons-background: rgba(15, 120, 15, 0.6);
 
   /*
     Context Menu Transparency
